@@ -26,8 +26,6 @@ A modern Android weather application built using Kotlin, Jetpack Compose, and th
 - Kotlin
 - Jetpack Compose
 - Material 3
-- ViewModel (Lifecycle)
-- StateFlow
 - Retrofit with GSON
 - Lottie Compose
 - Fused Location Provider (for location access)
